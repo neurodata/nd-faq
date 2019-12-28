@@ -2,6 +2,7 @@
 
 ### Respondents:
 *@BPedigo* - 2nd-year BME PhD Student in NeuroData lab
+*@hhelm* - Assistant Research Engineer (JHU undergrad / masters)
 
 ---
 **Q:** How is life as a graduate student at JHU (or life at Baltimore in general)?
@@ -36,3 +37,5 @@ called [GraSPy](https://graspy.neurodata.io/) while taking Jovo's class, which d
 Finally in April, I met with some ANOTHER group of experimentalists at a conference whom we had worked with previously, 
 and I was really excited about their new data. I ended up deciding that was the project I wanted to focus on and 
 I've been working on that ever since, and I'm using GraSPy to do a lot of the analysis, which is cool! 
+
+**A:** *@hhelm* I came into the lab having completed a master's thesis under Carey Priebe (who works closely with the methods / statistical side of our lab). I planned on working on extensions of that research. This, however, was not obviously useful to our lab or for achieving our goals and so Jovo and I found a set projects for me that are both interesting and useful. In my experience, Jovo is able and willing to help you find meaningful (to you and the community) projects that are both in your area of expertise and well aligned with the lab's interests.
