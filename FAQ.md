@@ -1,8 +1,14 @@
 # Q & A
 
 ### Respondents:
-*@BPedigo* - 2nd-year BME PhD Student in NeuroData lab
-*@hhelm* - Assistant Research Engineer (JHU undergrad / masters)
+- Joshua Vogelstein (*@jovo*) - PI for NeuroData
+- [Adam Charles](http://adamsc.mycpanel.princeton.edu/) (*@Adam*) - New BME Faculty
+- [Jeremias Sulam](https://sites.google.com/view/jsulam) (*@jere*) - BME Faculty
+- Eric Bridgeford (*@ebridge2*) - 2nd-year Biostat PhD Student in NeuroData lab (JHU undergrad)
+- Jaewon Chung (*@j1c*) - 1st-year BME PhD Student in NeuroData lab (also was BME Masters student at JHU)
+- Jayanta Dey (*@jdey4*) - 1st-year BME PhD Student in NeuroData lab
+- Ben Pedigo (*@BPedigo*) - 2nd-year BME PhD Student in NeuroData lab
+- Hayden Helm (*@hhelm*) - Assistant Research Engineer (JHU undergrad / masters)
 
 ---
 **Q:** How is life as a graduate student at JHU (or life at Baltimore in general)?
@@ -12,16 +18,38 @@ getting to explore the city. Lots of good food and drink here, IMO. I have also 
 within the program and think we have a good community here in the PhD program.
 
 ---
-**Q:** What are some of the current projects the team is working on and what must-know techniques are being used?
-
-**A:** See current projects tab.
-
----
 **Q:** What should I expect as a first year student in regards to class/research balance?
 
 **A:** *@BPedigo* I wish I knew quantitatively how much I spent on classes vs. research last year, but if I had to guess I'd 
 say 50/50 (+/- 10%). Both are definitely important, and I think there are a lot of great classes here that have
 helped me grow a lot and have been helpful for research. Though, I'm definitey here to do research!
+
+**A:** *@jdey4* About the workload, I find it the optimum. It is neither too much nor too less. Don't stress a lot thinking 
+about the workload now. I do a lot of mistakes and people are friendly and helpful. We have weekly meetings where you can 
+also learn from other people and their mistakes. 
+
+---
+**Q:** What are some of the current projects the team is working on and what must-know techniques are being used?
+
+**A:** See [current projects](projects.md) tab.
+
+**A:** *@Adam* I want to give some info for my lab since I just joined the faculty (lab officially opening it's doors in July). My work is at the intersection of Signal Processing/Machine Learning and Neuroscience. The work I focus on spans from the more instrumentation focused (using computational tools to interpret/process neural recordings as well as designing new, improved techniques that merge novel hardware and algorithms) to the more theoretical (how do we extract interpretable latent states from neural data and how can we understand the theoretical properties of those models). Specific projects I'd love to start immediately include 1) working with a wealth of optical imaging data I have from my collaborators, in particular two-photon calcium imaging, 2) theory work analyzing the capabilities and limitations of recurrent neural network models, with an bent towards systems neuroscience modeling, and 3) dynamical system analysis: how can we learn interpretable, relevant dynamics in neural data. My work is also very collaborative so there's opportunities to work closely with existing and new collaborations with experimental labs as well as other computational labs on campus (Josh, Jeremias, etc.). There's an amazing computational group in this department that I'm excited to be a part of!
+
+---
+**Q:** Are projects more theoretically driven or empirically driven?
+
+**A:** *@jere* I think there's a very large spectrum of projects, both from very applied to very theoretical, as well as spread over different topics and fields of study. In my group we have projects that are very much on foundations of machine learning, and thus theoretical, as well as applied project on a few biomedical applications on brain imaging and interpretable analysis of microscopy images. Several other faculty also span both applied and theoretical problems (Jovo's, Adam's, Rene Vidals, and others).
+
+**A:** *@Adam* To add to this, this spread is what drew me to jhu over other opportunities. There's definitely appreciation for both and plenty of faculty that span that range. I'll also use this moment to point out that I found this a rare quality when I was on the faculty job market that sets jhu apart from other bme departments. It was hard to find a single department that really appreciated both aspects so completely, and jhu bme definitely does.
+
+---
+**Q:** How do students get exposed to data acquisition techniques?
+
+**A:** *@jovo* any student working on data i tend to send to the data acquisition institutions/labs for as long as neccessary, typically 1-2 weeks at a time, but can be months as appropriate. the better we understand the data acquisition, the better analysis we can perform.
+
+**A:** *@Adam* This definitely depends on the type of project. Computational labs often work with large amounts of data collected from experimental labs. Larger projects will often have this flavor as the sheer scope of the project necessitates a higher level of compartmentalization. Smaller projects can be much more intertwined, especially when creating computational imaging solutions. I'll let others speak for their labs, however I'm actively starting up a few collaborations with the possibility of grad students visiting and working in the experimental lab for a few weeks (for example motor action in monkeys and reward representation in mouse hippocampus for two) to have my students get a better feel for where the data comes from, and all the all-too-often ignored intricacies that get lost in translation.
+
+**A:** *@ebridge2* A lot of people work hands on with collaborators who collect data directly, however, no students that I know of in the lab at present seem to express interest in data acquisition and as such this hasn't really come up (most people are more interested in data processing/inference). Plenty of those data acquisition collaborators acquire new data at our direct recommendation, however, (ie, make decisions as to better data collection methods, or how they can improve their data collection to improve our inferential capacity) and the discussions are pretty hands-on even though our lab doesn't directly collect the data.
 
 ---
 **Q:** What is the process for adopting a project in the lab?
