@@ -33,3 +33,17 @@ matching.
 ### Publications:
 [GraSPy: Graph Statistics in Python](http://www.jmlr.org/papers/volume20/19-490/19-490.pdf)
 
+## Lifelong Learning
+### Primary people:
+*@rmehta004*, *@hhelm10*
+
+### Description:
+Our lab is partially funded by the Lifelong Learning Machines (L2M) DARPA program. The goal of L2M is to 1) understand the biological mechanisms that allow humans to generalize knowledge well/quickly and to 2) develop novel algorithmic approaches to "modern" machine learning problems such as transfer-, multi-, continual-, and lifelong- learning. Our research is exclusively related to 2). We have developed forest-based algorithms that are interpretable and generalizable to other base learning methods.
+
+We are also interested in understanding and developing mathematical/statistical generalizations of learning theory / decision theory that include "modern" machine learning problems and that are strict generalizations of the theories of Valiant/Vapnik and Wald. 
+
+Some questions that we are excited to answer:
+- What does it mean to "transfer" knowledge? How do I measure an algorithm's ability to "transfer"?
+- When should I expect to be able to "transfer" knowledge? How does a particular algorithm "transfer" knowledge? 
+- What are desireable properties of transfer-, multi-, continual-, and lifelong- learning algorithms?
+
