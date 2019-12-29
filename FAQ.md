@@ -73,11 +73,25 @@ I've been working on that ever since, and I'm using GraSPy to do a lot of the an
 ---
 **Q:** What do you think distinguishes the BME program at Hopkins from other programs? 
 
+**A:** *@BPedigo* For me, one main thing was the huge freedom to take whatever classes you want. Other programs I was 
+looking at would have made me take a few courses in things that had nothing to do with my research and 
+interests, here, I have been able to take really good applied math courses that help my understanding of my
+work, we have acces to the medical school courses, it's really up to you. Other things are great access to
+collaborators, since there are amazing medical researchers and amazing engineers/mathematicians in the same
+place as @adam said above. I also love having friends/colleagues in the PhD program that work on huge 
+variety of topics, but are all really good at what they do, so you get a different perspective by talking 
+to your peers about what you do and what they are working on.
+
 ---
 **Q:** Does the lab have external collaborations at national labs or labs overseas? 
 
+**A:** *@BPedigo* Yes. I work with a lab that just moved to England, I know of at least one in France and one in 
+Germany. Probably way more than that. Less sure about national labs, I know Jovo has done work with some 
+people at Argonne, probably others. 
+
 ---
-**Q:** What do PhD students do after they graduate? 
+**Q:** What do PhD students do after they graduate?
+
 
 ---
 **Q:** What are your expectations from students just coming into the lab?
@@ -86,4 +100,13 @@ I've been working on that ever since, and I'm using GraSPy to do a lot of the an
 
 ---
 **Q:** What is your favorite thing about being at JHU and in this group in particular? 
+
+**A:** *@BPedigo* For JHU, I like having access to really smart collaborators/PIs/peers. Some of the best 
+medical researchers, biomedical engineers, mathematicians, etc. It's really nice to be able to take classes
+and get to know those people. For the lab group, my answer is pretty similar. But to be more specific, I
+find our lab has a really good mix of talents. Some are really really good at math and stats, some at 
+programming, some know more about the data applications we are working on, so there are always super 
+knowledgable people that sit right around me that I can bounce ideas off of or ask questions. Everyone is 
+very willing to help or offer an opinion. Also on top of that they're just all friendly so it makes for a 
+fun work environment.
 
