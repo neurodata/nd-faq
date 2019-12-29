@@ -7,7 +7,7 @@
 - Eric Bridgeford (*@ebridge2*) - 2nd-year Biostat PhD Student in NeuroData lab (JHU undergrad)
 - Jaewon Chung (*@j1c*) - 1st-year BME PhD Student in NeuroData lab (also was BME Masters student at JHU)
 - Jayanta Dey (*@jdey4*) - 1st-year BME PhD Student in NeuroData lab
-- Ben Pedigo (*@BPedigo*) - 2nd-year BME PhD Student in NeuroData lab
+- [Ben Pedigo](https://bdpedigo.github.io/) (*@BPedigo*) - 2nd-year BME PhD Student in NeuroData lab
 - Hayden Helm (*@hhelm*) - Assistant Research Engineer (JHU undergrad / masters)
 
 ---
