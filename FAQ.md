@@ -51,6 +51,8 @@ also learn from other people and their mistakes.
 
 **A:** *@ebridge2* A lot of people work hands on with collaborators who collect data directly, however, no students that I know of in the lab at present seem to express interest in data acquisition and as such this hasn't really come up (most people are more interested in data processing/inference). Plenty of those data acquisition collaborators acquire new data at our direct recommendation, however, (ie, make decisions as to better data collection methods, or how they can improve their data collection to improve our inferential capacity) and the discussions are pretty hands-on even though our lab doesn't directly collect the data.
 
+**A:** *@BPedigo* I’m going to visit collaborators in england for several weeks for just this reason (and jovo has supported me going on international travel just to do this!). When I was working with an experimental lab at hopkins, I also went down to their lab to watch some experiments and ask questions about the way they were running things, and I think any experimental lab we collaborate with will be very open to this
+
 ---
 **Q:** What is the process for adopting a project in the lab?
 
