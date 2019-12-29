@@ -69,3 +69,21 @@ and I was really excited about their new data. I ended up deciding that was the 
 I've been working on that ever since, and I'm using GraSPy to do a lot of the analysis, which is cool! 
 
 **A:** *@hhelm* I came into the lab having completed a master's thesis under Carey Priebe (who works closely with the methods / statistical side of our lab). I planned on working on extensions of that research. This, however, was not obviously useful to our lab or for achieving our goals and so Jovo and I found a set projects for me that are both interesting and useful. In my experience, Jovo is able and willing to help you find meaningful (to you and the community) projects that are both in your area of expertise and well aligned with the lab's interests.
+
+---
+**Q:** What do you think distinguishes the BME program at Hopkins from other programs? 
+
+---
+**Q:** Does the lab have external collaborations at national labs or labs overseas? 
+
+---
+**Q:** What do PhD students do after they graduate? 
+
+---
+**Q:** What are your expectations from students just coming into the lab?
+
+**A:** *@jovo* Answer is [here](https://neurodata.io/about/agreements/)
+
+---
+**Q:** What is your favorite thing about being at JHU and in this group in particular? 
+
