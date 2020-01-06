@@ -47,3 +47,9 @@ Some questions that we are excited to answer:
 - When should I expect to be able to "transfer" knowledge? How does a particular algorithm "transfer" knowledge? 
 - What are desireable properties of transfer-, multi-, continual-, and lifelong- learning algorithms?
 
+## Mouselight
+### Primary people:
+*@tathey1*, *@vikramc*
+
+### Description:
+HHMI Janelia has recently developed a two-photon microscopy technique that can resolve mammalian neurons that project across the whole brain! (https://www.ncbi.nlm.nih.gov/pubmed/31495573). However, the process of tracing(/segmenting) the neurons remains a bottleneck. In a collaboration between JHU and Janelia, we are trying to accelerate this process using classic image processing, dynamic programming, and cloud computing.
