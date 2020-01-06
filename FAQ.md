@@ -9,6 +9,7 @@
 - Jayanta Dey (*@jdey4*) - 1st-year BME PhD Student in NeuroData lab
 - [Ben Pedigo](https://bdpedigo.github.io/) (*@BPedigo*) - 2nd-year BME PhD Student in NeuroData lab
 - Hayden Helm (*@hhelm*) - Assistant Research Engineer (JHU undergrad / masters)
+- Thomas Athey (*@tathey1*) - 2nd-year BME PhD Student in NeuroData lab
 
 ---
 **Q:** How is life as a graduate student at JHU (or life at Baltimore in general)?
@@ -16,6 +17,10 @@
 **A:** *@BPedigo* I love it! I have been happy with my work/life balance most of the time, and I have enjoyed
 getting to explore the city. Lots of good food and drink here, IMO. I have also found many close friends 
 within the program and think we have a good community here in the PhD program.
+
+**A:** *@tathey1* It's great. Regarding JHU life, I'd like to point out that as BME students, we have access to both the GSA (student organization at the medical campus - http://gsa.jhmi.edu/) and GRO (student organization at Homewood campus - https://studentaffairs.jhu.edu/gro/events/). It is worth checking out their websites to see the events that they host. My favorites include the weekly coffee hour, and the roller skating/bowling event they had this past semester (since I'm talking to prospective grad students so I'll re-clarify that events are free). Secondly, JHU loves to tell prospective undergrads about their sheer number of student clubs (like over 300 or something - https://studentaffairs.jhu.edu/sli/student-organizations/). This is still relevant to us because grad students can still participate in most of them (hmu if you are a tennis player).
+
+I find Baltimore to be affordable, and easy to get around. A decent number of students will end up having a car here, but it is not essential since you can usually find a friend with a car, or you can use the city's free buses. I personally like to look for events at https://www.baltimoresun.com/events/. I can't say that the entertainment is as high caliber as places like NY or SF, but the upside is that you can become part of almost any circle if you want to.
 
 ---
 **Q:** What should I expect as a first year student in regards to class/research balance?
