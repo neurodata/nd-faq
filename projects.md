@@ -53,3 +53,14 @@ Some questions that we are excited to answer:
 
 ### Description:
 HHMI Janelia has recently developed a two-photon microscopy technique that can resolve mammalian neurons that project across the whole brain! (https://www.ncbi.nlm.nih.gov/pubmed/31495573). However, the process of tracing(/segmenting) the neurons remains a bottleneck. In a collaboration between JHU and Janelia, we are trying to accelerate this process using classic image processing, dynamic programming, and cloud computing.
+
+## Human Connectomics (Heritability)
+### Primary people: 
+*@j1c*, *@jdey4*
+
+### Description:
+This project is primarily driven by the [Human Connectome Project Young Adult](https://www.humanconnectome.org/study/hcp-young-adult) data. Roughly 1100 subjects, who are identical twins, fraternal twins, and non-twin siblings, were scanned using MRI in various modalities (structural T1/T2, functional, diffusion). Connectomes were derived from functional and diffusion MRI using various tools, such as [m2g](https://neurodata.io/m2g/), and the data is analyzed using [GraSPy](https://neurodata.io/graspy)
+
+The questions that are being asked are:
+1. Is the structural connectivity (connectomes from diffusion MRI) heritable? That is, are the connectivity patterns in identical twins more similar than those in frateral or siblings?
+2. Similarly, how much do other factors, such as brain volume, fractional anisotropy, etc contribute to heritability?

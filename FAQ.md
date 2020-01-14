@@ -33,6 +33,8 @@ helped me grow a lot and have been helpful for research. Though, I'm definitey h
 about the workload now. I do a lot of mistakes and people are friendly and helpful. We have weekly meetings where you can 
 also learn from other people and their mistakes. 
 
+**A:** *@j1c* Since I was a Masters student at Hopkins, my coursework is a bit lighter than others so I am spending about 70% on research and 30% on classes in the first year. 
+
 ---
 **Q:** What are some of the current projects the team is working on and what must-know techniques are being used?
 
@@ -74,6 +76,8 @@ and I was really excited about their new data. I ended up deciding that was the 
 I've been working on that ever since, and I'm using GraSPy to do a lot of the analysis, which is cool! 
 
 **A:** *@hhelm* I came into the lab having completed a master's thesis under Carey Priebe (who works closely with the methods / statistical side of our lab). I planned on working on extensions of that research. This, however, was not obviously useful to our lab or for achieving our goals and so Jovo and I found a set projects for me that are both interesting and useful. In my experience, Jovo is able and willing to help you find meaningful (to you and the community) projects that are both in your area of expertise and well aligned with the lab's interests.
+
+**A:** *@j1c* Similarly, I spent first year during my Master's trying various projects. These ranged from contributing to algorithm development, computer vision projects (automatic synapse detection using conjugate array tomography data), and pipeline development. Currently, I have been working on [GraSPy](https://graspy.neurodata.io/), and various macroscale connectomics projects.
 
 ---
 **Q:** What do you think distinguishes the BME program at Hopkins from other programs? 
