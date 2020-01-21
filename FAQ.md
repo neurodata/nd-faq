@@ -36,6 +36,13 @@ also learn from other people and their mistakes.
 **A:** *@j1c* Since I was a Masters student at Hopkins, my coursework is a bit lighter than others so I am spending about 70% on research and 30% on classes in the first year. 
 
 ---
+
+**Q:** How much time does TA-ing take?
+
+**A:** *@j1c* The current requirement is that you TA for one semester. I would consider TA-ing to take as much time as taking one full course.
+
+---
+
 **Q:** What are some of the current projects the team is working on and what must-know techniques are being used?
 
 **A:** See [current projects](projects.md) tab.
