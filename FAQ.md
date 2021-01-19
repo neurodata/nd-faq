@@ -4,12 +4,12 @@
 - Joshua Vogelstein (*@jovo*) - PI for NeuroData
 - [Adam Charles](http://adamsc.mycpanel.princeton.edu/) (*@Adam*) - New BME Faculty
 - [Jeremias Sulam](https://sites.google.com/view/jsulam) (*@jere*) - BME Faculty
-- Eric Bridgeford (*@ebridge2*) - 2nd-year Biostat PhD Student in NeuroData lab (JHU undergrad)
-- Jaewon Chung (*@j1c*) - 1st-year BME PhD Student in NeuroData lab (also was BME Masters student at JHU)
-- Jayanta Dey (*@jdey4*) - 1st-year BME PhD Student in NeuroData lab
-- [Ben Pedigo](https://bdpedigo.github.io/) (*@BPedigo*) - 2nd-year BME PhD Student in NeuroData lab
-- Hayden Helm (*@hhelm*) - Assistant Research Engineer (JHU undergrad / masters)
-- Thomas Athey (*@tathey1*) - 2nd-year BME PhD Student in NeuroData lab
+- Eric Bridgeford (*@ebridge2*) - 3rd-year Biostat PhD Student in NeuroData lab (JHU undergrad)
+- Jaewon Chung (*@j1c*) - 2nd-year BME PhD Student in NeuroData lab (also was BME Masters student at JHU)
+- Jayanta Dey (*@jdey4*) - 2nd-year BME PhD Student in NeuroData lab
+- [Ben Pedigo](https://bdpedigo.github.io/) (*@BPedigo*) - 3rd-year BME PhD Student in NeuroData lab
+- Hayden Helm (*@hhelm*) - Former Assistant Research Engineer (JHU undergrad / masters)
+- Thomas Athey (*@tathey1*) - 3rd-year BME PhD Student in NeuroData lab
 
 ---
 **Q:** How is life as a graduate student at JHU (or life at Baltimore in general)?
