@@ -1,7 +1,7 @@
 # Q & A
 
 ### Respondents:
-- Joshua Vogelstein (*@jovo*) - PI for NeuroData
+- [Joshua Vogelstein](https://jovo.me/) (*@jovo*) - PI for NeuroData
 - [Adam Charles](http://adamsc.mycpanel.princeton.edu/) (*@Adam*) - New BME Faculty
 - [Jeremias Sulam](https://sites.google.com/view/jsulam) (*@jere*) - BME Faculty
 - Eric Bridgeford (*@ebridge2*) - 3rd-year Biostat PhD Student in NeuroData lab (JHU undergrad)
