@@ -105,9 +105,6 @@ to your peers about what you do and what they are working on.
 Germany. Probably way more than that. Less sure about national labs, I know Jovo has done work with some 
 people at Argonne, probably others. 
 
----
-**Q:** What do PhD students do after they graduate?
-
 
 ---
 **Q:** What are your expectations from students just coming into the lab?
@@ -125,4 +122,10 @@ programming, some know more about the data applications we are working on, so th
 knowledgable people that sit right around me that I can bounce ideas off of or ask questions. Everyone is 
 very willing to help or offer an opinion. Also on top of that they're just all friendly so it makes for a 
 fun work environment.
+
+---
+**Q:** What do PhD students do after they graduate?
+
+--- 
+**Q:** What is Jovo's mentoring style like?
 
