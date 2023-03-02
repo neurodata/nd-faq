@@ -4,3 +4,5 @@ A collection of frequently asked questions (and answers) for prospective PhD stu
 ## Contents
 - [FAQ](https://github.com/neurodata/nd-faq/blob/master/FAQ.md)
 - [Current Projects](https://github.com/neurodata/nd-faq/blob/master/projects.md)
+
+- [Courses](https://github.com/neurodata/nd-faq/blob/master/courses.md)
